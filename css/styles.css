@@ -1,0 +1,45 @@
+body{
+    background: #D8BFD8;
+    text-align: center;
+}
+
+h1{
+    margin: 100px 0 150px;
+}
+
+header .cont2{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    position: relative;
+}
+a{
+    padding: 20px;
+    border-radius: 10px;
+    background: #ffffff;
+    margin: 0 20px;
+    text-decoration: none;
+}
+
+#si{
+    transition: 0.5s;   
+}
+
+#si:hover{
+    font-size: 30px;
+    color: red;
+}
+
+.boton1{
+    padding-top: 40px;
+    margin: 0 20px;
+}
+
+.boton2{
+    transition: 0s;
+    padding-top: 40px;
+}
+
+.boton2:hover{
+    margin-top: 200px;
+}
