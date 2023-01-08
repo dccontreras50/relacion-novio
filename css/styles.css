@@ -22,7 +22,7 @@ a{
 }
 
 #si{
-    transition: 0.5s;   
+    transition: 0.5s;
 }
 
 #si:hover{
@@ -33,10 +33,14 @@ a{
 .boton1{
     padding-top: 40px;
     margin: 0 20px;
+    position: absolute;
+    margin-top: 90px;
 }
 
 .boton2{
     transition: 0s;
+    position: absolute;
+    margin-top: 90px;
 }
 
 .boton2:hover{
