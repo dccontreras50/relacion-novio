@@ -10,7 +10,7 @@ h1{
 header .cont2{
     display: flex;
     justify-content: center;
-    height: 100px;
+    height: 200px;
     position: relative;
 }
 a{
@@ -27,11 +27,10 @@ a{
 
 #si:hover{
     font-size: 10px;
-    color: green;
+    color: orange;
 }
 
 .boton1{
-    padding-top: 40px;
     margin: 0 20px;
     position: absolute;
     margin-top: 90px;
