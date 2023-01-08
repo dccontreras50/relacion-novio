@@ -38,7 +38,7 @@ a{
 }
 
 .boton2{
-    transition: 0s;
+    transition: .3s;
     position: absolute;
     margin-top: 90px;
 }
